@@ -7,7 +7,6 @@ public class OddEven {
 	
 	if (num % 2 == 0)
 		System.out.println("even number selected");
-	
 	else
 		System.out.println("odd number selected");
 
